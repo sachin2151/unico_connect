@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84397369437",
+    "project_id": "unico-connect-14548",
+    "storage_bucket": "unico-connect-14548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84397369437:android:c74418f15c4a627eb8c5b4",
+        "android_client_info": {
+          "package_name": "com.example.unico_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGT1NrqF8iL44GpkcTIHCkAVYgnjGEESQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
